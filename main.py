@@ -50,18 +50,4 @@ learn.load_encoder('kiite_enc')
 
 learn.load('Kiite_Model')
 
-print(learn.predict("ทำไมทำตัวแย่แบบนี้")[0])
-print(learn.predict("วันนี้อากาศดีจัง")[0])
-
-a = learn.predict("สวัสดี")
-
-if str(a[0]) == "pos":
-    print("pos")
-elif str(a[0]) == "neg":
-    print("neg")
-else:
-    print("ERR: Unknow type")
-
-# person = ('Diana','Canada','CompSci')
-# s = ''.join(person[0]) 
-# print(s)
+#predict
