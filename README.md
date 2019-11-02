@@ -5,4 +5,4 @@
 
 credit Dataset from https://github.com/PyThaiNLP/wisesight-sentiment
 
-we have e Category of thai texts dataset 1.General 2.Education 3.Love to use in sentiment analysis
+we have e Category of thai texts dataset 1.General  2.Education   3.Love        to use in sentiment analysis
