@@ -11,4 +11,6 @@ we have 3 Category of thai texts dataset 1.General  2.Education   3.Love to use 
 
 To use API, we use flask ' pip install flask '
 
+You must have a MODEL.
+
 Run Sentiment_Kiite
