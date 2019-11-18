@@ -50,4 +50,5 @@ learn.load_encoder('kiite_enc')
 
 learn.load('Kiite_Model')
 
-#predict
+a = learn.predict("ควย")
+print(a[0])
