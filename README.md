@@ -13,4 +13,4 @@ To use API, we use flask ' pip install flask '
 
 You must have a MODEL.
 
-Run Sentiment_Kiite
+Run Sentiment_Kiite.py
